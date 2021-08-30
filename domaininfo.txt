@@ -1,0 +1,5 @@
+google.com 209.56.43.1
+microsoft.com 12.13.14.5
+twitter.com 123.45.67.8
+facebook.com 876.54.32.1
+instagram.com 135.79.24.6
